@@ -6,7 +6,7 @@
 
 Founded by the Lofanians, the guild has a very strong sense of honor and duty, as their principal objective is to defend the cities from monsters.
 
-Recently, thanks to the requests of the [[Sires\|Sires]], new subgroups that are specialized in protecting commercial routes and from specific magical threats have been created.
+Recently, thanks to the requests of the [[The Lore/Sires\|Sires]], new subgroups that are specialized in protecting commercial routes and from specific magical threats have been created.
 
 # Internal Structure
 
