@@ -9,7 +9,7 @@ This is the center of the world. The last continent.
 
 With the biggest mountain in the world, reaching the Rings itself and [[Floitie\|Floitie]] as well, Drakon's Peak is the most fascinating place in the world. Not only that, but nobody has effectively got even near the peak. The strongest Draark who did, only met an [[Ethereans\|Ethereans]], proving that they actually exist, and fell after that, almost remembering nothing of his life afterwards.
 
-And since [[Draark\|Draark]]s are very religious, they believe that the mountain is itself the manifestation of the Draark's race's heart. At every milestone of the mountain, a temple can be found, at the least at the lower heights.
+And since [[The Races/Draark\|Draark]]s are very religious, they believe that the mountain is itself the manifestation of the Draark's race's heart. At every milestone of the mountain, a temple can be found, at the least at the lower heights.
 
 Some small floating isles were also sighted near the higher heights of the mountain.
 
@@ -24,11 +24,11 @@ There is only one big lake that is hidden in the center of the mountains, it is 
 
 Due to the prideful tendencies of the race, they tend to go along among themselves, but are reluctant to let other races stay in their villages. This was accentuated the moment the villages united under a single great city, named Draakan (not very creative!) and only one Great Leader would decide for the city and who visited them.
 
-They are mostly friendly to anyone who visits, less to who decides to stay for more than one week. They are also successful in trades, most of the common magic items come from here, as Draarks are very good at alchemy, craftmanship ([[Cragger\|Cragger]]s) and magic. This is due to their strict relationship with religious aspects that come down from their profound respect of their ancestors, the dragons.
+They are mostly friendly to anyone who visits, less to who decides to stay for more than one week. They are also successful in trades, most of the common magic items come from here, as Draarks are very good at alchemy, craftmanship ([[The Lore/Cragger\|Cragger]]s) and magic. This is due to their strict relationship with religious aspects that come down from their profound respect of their ancestors, the dragons.
 
 While The Great Leader decides for everyone, his decisions are usually advised by the Great Seer who is usually an older sage draark.
 
-Much to the Draark's sadness, the [[Defendium\|Defendium]]s are also here, despite the Draarks believing that they do not need help to defend themselves.
+Much to the Draark's sadness, the [[The Lore/Defendium\|Defendium]]s are also here, despite the Draarks believing that they do not need help to defend themselves.
 
 It is most interesting that with the adventing of the Defendium, the Cult of The Void approached also here, and a big part of the Draarks were attracted by it and decided to follow it much like they do in [[The States/Cascada\|Cascada]].
 
