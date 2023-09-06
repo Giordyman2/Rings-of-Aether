@@ -16,15 +16,15 @@ There were three leftovers cities from Faeri:
 - Giafranc, which was once an intellectual city of culture
 - Eten, a city that was used as an outpost for one of the mines.
 
-These cities became controlled by the [[Lofanian\|Lofanian]] tribes that lived in the lands and were the ones to start off the war against Faeri.
+These cities became controlled by the [[The Races/Lofanian\|Lofanian]] tribes that lived in the lands and were the ones to start off the war against Faeri.
 
 These tribes are:
 
 - Aelos Tribe, a warrior tribe composed by pure Lofanians
-- Belgar Tribe, who are made of Lofanians specialized in metallurgy and craftmanship, alongside some [[Colonnel\|Colonnel]]s mercenaries
+- Belgar Tribe, who are made of Lofanians specialized in metallurgy and craftmanship, alongside some [[The Races/Colonnel\|Colonnel]]s mercenaries
 - Caelis Tribe, a tribe made of warriors who are specialized in wizardy and elemental magic, also made by pure Lofanians.
 - Drenor Tribe, made of Lofanians and [[The Races/Munnen\|Munnen]]s who are less oriented towards the control of the cities and use the Mystical Agriculture to live in the wasted lands.
-- Eryndor Tribe, made of Lofanians and [[Milinel\|Milinel]]s who are more oriented to exploration and nomadism. They can be very brute and rather than the control of the city, they tend to act as [[Fuuder\|Fuuder]]s and attack commercial ships.
+- Eryndor Tribe, made of Lofanians and [[The Races/Milinel\|Milinel]]s who are more oriented to exploration and nomadism. They can be very brute and rather than the control of the city, they tend to act as [[The Lore/Fuuder\|Fuuder]]s and attack commercial ships.
 - Faelis Tribe, made of pure Lofanians who gained control of the cities through diplomacy. They are especially great in long-distance combat.
 
 
@@ -83,3 +83,13 @@ They narrate a lot of stories about treasures, about the Rings and about the unk
 ## Faelis Tribe
 
 They are known and even respected by the other tribes to be able to talk to other continents for the commercial trades. All of the other tribes believe that without them, the other tribes wouldn't be able to get the resources to live into the continent through the cities.
+
+
+# Legends and Myths
+
+- It has been said that a Lofaniel from the Belgar Tribe went down the deepest parts of one of the two mines and never came back. The Tribe believes that he found a special magical metal and was turned back into a creature of pure energy.
+- In the Caelis Tribe, there's a legend that says that if the dance is done correctly, a new element can be invoked. However it is also narrated that it was this that created the destruction between Caeri and Faeri, so it has been banned.
+- The Eryndor Tribe says that there's a treasure that has been hidden after one of their most successful raid. It is said that it's now guarded by monsters and spirits.
+- Before the cataclysm, 200 years ago, there was a fourth city in this region, however it was destroyed. Some believe that there were imporant secrets there. The Digirazed never talked about what went on there.
+- The Faelis Tribe believes that the spirits of the desolated lands are what makes them especially great at commerce, thus every year they offer sacrifice to them.
+- During the Great Tribe Wars, it is narrated that a single Aelos Tribe warrior once destroyed an entire tribe alone. The gods made him a statue after this carnage, as a sign of his honor, but also his arrogance.
