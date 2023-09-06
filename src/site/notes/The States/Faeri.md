@@ -10,11 +10,11 @@ What used to be a perfectly balanced territory, much like [[The States/Cascada\|
 
 ## The Corrupted Lands
 
-Due to the violent nature of the split, whom none who was there to witness, dare to say what happen or why it happened, has created a massive corruption to the region near it. Of course, [[Explorers\|Explorers]] have tried to understand why, but both parties, Caerian and Faerian, wanted to forget that it ever happened.
+Due to the violent nature of the split, whom none who was there to witness, dare to say what happen or why it happened, has created a massive corruption to the region near it. Of course, [[The Lore/Explorers\|Explorers]] have tried to understand why, but both parties, Caerian and Faerian, wanted to forget that it ever happened.
 
 What used to be beautiful plains, turned to red lands with a strange purple smog floating in the air. And while the flora didn't die out, it became mutated and also hostile, becoming a threat to people as well. Cities had to be abandoned, monsters who lived there became magical and stronger and most of the animals either died or mutated into monsters.
 
-Faerians remember this as a scar that was purposely given to them by the Caerians, or so this is what it's shared culturally. Convicted men of especially grave crimes are punished by being left in the middle of these corrupted lands. Some [[Explorers\|Explorers]] use this place to prove to the world their worth.
+Faerians remember this as a scar that was purposely given to them by the Caerians, or so this is what it's shared culturally. Convicted men of especially grave crimes are punished by being left in the middle of these corrupted lands. Some [[The Lore/Explorers\|Explorers]] use this place to prove to the world their worth.
 
 Or so this was thought, the truth is that there are specific magic minerals, the mithril, a rare magic metal that can only be found in these lands, that can be used to create very powerful magic items and armor.
 
@@ -75,7 +75,7 @@ The Digirazeds, not wanting to do so, are trying to distract the population with
 
 This political decision has led Colonels to basically migrate to the mountains where they created small villages, which still operate under the laws of the Faerian Council. This has happened mostly in the east, as the west is instead more progressive and even the Council's members that come from the west region have pushed the idea of democracy in the latest years.
 
-Faeri pushed themselves to seek out additional support, which they found in [[Inertia\|Inertia]], who promised that they would defend them if Caeri were to start a conflict. This created a situation where the only commercial partner has become Inertia, while closing off their commercial routes to anyone else. This created a lot of ill thoughts in the population, especially those who were friendly towards other continents, Cascada in particular.
+Faeri pushed themselves to seek out additional support, which they found in [[The States/Inertia\|Inertia]], who promised that they would defend them if Caeri were to start a conflict. This created a situation where the only commercial partner has become Inertia, while closing off their commercial routes to anyone else. This created a lot of ill thoughts in the population, especially those who were friendly towards other continents, Cascada in particular.
 
 
 ## Cult of the Void
