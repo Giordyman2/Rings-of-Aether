@@ -9,7 +9,7 @@ Water comes here from the rest of the world, and falls down to the border. Howev
 
 # Background
 
-The Falls of Destiny were found first by Captain Elara the Bold, a [[Milinel\|Milinel]] that prior to this event was considered a [[Fuuder\|Fuuder]], that was intrigued by the strange mist that could be seen the north-west tip of the continent and decided to check it out.
+The Falls of Destiny were found first by Captain Elara the Bold, a [[The Races/Milinel\|Milinel]] that prior to this event was considered a [[The Lore/Fuuder\|Fuuder]], that was intrigued by the strange mist that could be seen the north-west tip of the continent and decided to check it out.
 
 She and her crew survived y not falling, because her ship was magically spit out of the border. And during this event, a comet appeared shortly in the night sky.
 
@@ -38,7 +38,7 @@ Every ten years or so, it is said that a giant whale appears near the mist, maki
 
 It is said that some nights you can hear melodies come from the Falls. It is believed that some might be lost souls of the fell people, other believe it to be beautiful women that sing from right at the border, though nobody has ever seen them.
 
-Many [[Explorers\|Explorers]] have tried to see if there is a secret to the Falls. Thus, the legend of the Hidden Cave was born, a cave that supposedly is connected to other worlds and dimensions. However nobody has ever lived to tell the tale.
+Many [[The Lore/Explorers\|Explorers]] have tried to see if there is a secret to the Falls. Thus, the legend of the Hidden Cave was born, a cave that supposedly is connected to other worlds and dimensions. However nobody has ever lived to tell the tale.
 
 
 Since the water level on the world never is actually lost to the falls, it is said that there is a "well" that makes the water come back to the world. While it has not been ever seen, it's a sacred symbol and it is often shown in the Temples of Cascada.
