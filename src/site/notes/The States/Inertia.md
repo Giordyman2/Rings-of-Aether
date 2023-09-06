@@ -33,13 +33,13 @@ Alongside them, the Guardians, a government force that is used to keep peace in 
 
 Once again, since Inertia is at hands with the danger, they do not treat religion as superficial as other continents, instead they have a deep druidical cult, especially near the Zenith Tower. 
 
-Same goes for the Cult of The Void, here it's more than a religion and philosophy, for most, it's a deep creed that let people gather their power from; and to be more accepted within the society, they usually donate to the [[Gregger\|Gregger]]s to help build more advanced structures; in fact the Bridge was built entirely on the Cult of The Void's funds.
+Same goes for the Cult of The Void, here it's more than a religion and philosophy, for most, it's a deep creed that let people gather their power from; and to be more accepted within the society, they usually donate to the [[The Lore/Gregger\|Gregger]]s to help build more advanced structures; in fact the Bridge was built entirely on the Cult of The Void's funds.
 
 There are 3 main cities and various villages scattered around that refer to them:
 
-- Cagelian, the main city, the biggest in Inertia, with its big palace for the government. The entire state is run here, through the Druidical Theocracy (which nowadays could be explained as an ecological intellectocracy), which take decisions based off what they learn from the nature and the population itself. Its main focus are the [[Gregger\|Gregger]]s, who are the engineering guild, and the [[Defendium\|Defendium]], an international mercenarial force that is used by each government to keep dangers away. The Guardians are, instead, just Inertian.
-- Magellan, the south west city, built near the only river of the continent. Here the [[Watcher\|Watcher]]s (guild that is specialized into information seeking) and the [[Migger\|Migger]]s are the most important professional figures. It is also the most important city for commercial routes.
-- Gulon, north-west city, situated after the Bridge, it's mostly a military outpost for the [[Defendium\|Defendium]] and the [[Explorers\|Explorers]].
+- Cagelian, the main city, the biggest in Inertia, with its big palace for the government. The entire state is run here, through the Druidical Theocracy (which nowadays could be explained as an ecological intellectocracy), which take decisions based off what they learn from the nature and the population itself. Its main focus are the [[The Lore/Gregger\|Gregger]]s, who are the engineering guild, and the [[The Lore/Defendium\|Defendium]], an international mercenarial force that is used by each government to keep dangers away. The Guardians are, instead, just Inertian.
+- Magellan, the south west city, built near the only river of the continent. Here the [[The Lore/Watcher\|Watcher]]s (guild that is specialized into information seeking) and the [[The Lore/Migger\|Migger]]s are the most important professional figures. It is also the most important city for commercial routes.
+- Gulon, north-west city, situated after the Bridge, it's mostly a military outpost for the [[The Lore/Defendium\|Defendium]] and the [[The Lore/Explorers\|Explorers]].
 
 While the government decided to side with Faeri in case they were attacked, they are still remaining neutral and continue to have commercial routes with Caeri as well. This is not seen well by Faeri's oligarchy.
 
