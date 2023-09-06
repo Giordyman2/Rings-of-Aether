@@ -25,7 +25,7 @@ The phylosophy of the guild is mostly "To Know and To Respect". It means that it
 
 # Rivals and Allies
 
-Generally in good terms with the [[Watchers\|Watchers]], as they offer information for good money, however some tension have been found in the past with the [[The Lore/Defendium\|Defendium]], as they have seen attempts at exploring more perilous than other. Furthermore, Explorers tend to get attacked alongside the [[Sires\|Sires]] by the [[Fuuder\|Fuuder]]s.
+Generally in good terms with the [[Watchers\|Watchers]], as they offer information for good money, however some tension have been found in the past with the [[The Lore/Defendium\|Defendium]], as they have seen attempts at exploring more perilous than other. Furthermore, Explorers tend to get attacked alongside the [[The Lore/Sires\|Sires]] by the [[The Lore/Fuuder\|Fuuder]]s.
 
 # Prerequisites to Enter
 
